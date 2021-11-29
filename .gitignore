@@ -1,0 +1,9 @@
+# Project exclude paths
+/out/
+/KnockKnock.iml
+/src/KnockKnockClient.class
+/src/KnockKnockServer.class
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml

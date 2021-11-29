@@ -14,4 +14,4 @@ First compile the code and then run the following code:
 java KnockKnockClient -host <hostname> -port <port_number>
 ```
 
-**Note:** `hostname` can be `localhost` or the `ip_address` of the client.
+**Note:** `hostname` can be `localhost` or the `ip_address` of the client. Make sure that the `port_number` is the same for the server and client.

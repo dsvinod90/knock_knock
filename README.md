@@ -1,6 +1,6 @@
 # knock_knock
 
-This is a simple knock-knock game played between client and server. All you have to do is start the server and run the client program and the game will proceed.
+This is a simple knock-knock game played between client and server. It implements tcp-socket programming to simulate the game. All you have to do is start the server and run the client program and the game will proceed.
 
 ### Syntax to run the server:
 First complile the code and then run the following code: 

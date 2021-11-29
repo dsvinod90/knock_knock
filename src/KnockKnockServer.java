@@ -10,7 +10,7 @@ public class KnockKnockServer {
 	private static final String INTERACTIVE_FLAG = "-i";
 	private static final String DELIMITER = " | ";
 	private static final String FILEPATH =
-		"/Users/VinodDalavai/IntelliJProjects/KnockKnock/punches.txt";
+		"../punches.txt";
 	private static Socket socket;
 	private static ServerSocket serverSocket;
 	private final int port;

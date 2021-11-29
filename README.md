@@ -1,5 +1,9 @@
 # knock_knock
 
+
+https://user-images.githubusercontent.com/26185142/143909547-86cb4672-df7c-45a3-8379-a73411a57ed5.mov
+
+
 This is a simple knock-knock game played between client and server. It implements tcp-socket programming to simulate the game. All you have to do is start the server and run the client program and the game will proceed.
 
 This game can be run in two modes, interactive (where you will be able to play with the computer) and non-interactive (where the client and server will communicate automatically)
